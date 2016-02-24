@@ -1,7 +1,7 @@
 {
   "name": "csv-parse-objects",
   "description": "Parse csv file to array of objects with headers as keys",
-  "version": "0.1.0",
+  "version": "0.1.1",
   "main": "index.js",
   "dependencies": {
     "csv-parse": "^1.0.0"
