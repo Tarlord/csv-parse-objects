@@ -3,6 +3,9 @@
   "description": "Parse csv file to array of objects with headers as keys",
   "version": "0.0.1",
   "main": "index.js",
+  "dependencies": {
+    "csv-parse": "^1.0.0"
+  },
   "engines": {
     "node": "0.10.x"
   }
